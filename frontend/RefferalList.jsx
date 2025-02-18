@@ -106,7 +106,7 @@ const ReferralList = () => {
             </div>
 
             <div className="dropdown">
-              <img src="Screenshot 2024-09-07 041455.png" alt="Shortcuts" />
+              <img src="https://th.bing.com/th/id/OIP.3F-fdDamE0-O8TsyCIP4vQHaHa?w=174&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="Shortcuts" />
               <div className="dropdown-content">
                 <a href="#">Calender</a>
                 <a href="#">User App</a>
